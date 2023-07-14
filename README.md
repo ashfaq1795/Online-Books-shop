@@ -1,11 +1,11 @@
 # Online-Books-shop
 
-Project Title: 
+<h2>Project Title</h2>
 Online Book Store
-##Project Description <br>
+<h2>Project Description</h2>
 The Book Store Website is an online platform where users can register, log in, browse available books, place orders, and communicate with the admin. The website also provides administrative functionalities, allowing the admin to manage books, accept orders, set book prices, and control the entire website.
 <br>
-<h2>eatures</h2>
+<h2>Features</h2>
 
 <h4>User Registration and Login</h4>
 
